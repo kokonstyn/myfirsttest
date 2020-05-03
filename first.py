@@ -1,7 +1,7 @@
 import pyowm
 import telebot
 
-
+x = "pist"
 
 owm = pyowm.OWM('', language = "ru")
 
